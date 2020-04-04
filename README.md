@@ -10,11 +10,8 @@ this requirement may change depending on the availability of oxygen at different
 the pandemic and in different treatment centres.
 Gas and electricity
 3. Incoming Gas Supply.
-a. All gas connectors and hoses must comply with ISO ?!?, ISO
-?!?.
-b. Must connect to wall pipeline oxygen supply via ?!? compatible probes
-(Schrader). If hose not permanently fixed to machine, then must connect with NIST (Non-
-Interchangeable Screw Thread to ?!?).
+a. All gas connectors and hoses must comply with ISO (to do:check old bg hospital probes).
+b. Must connect to wall pipeline oxygen supply via (to do:check old bg hospital probes).
 Oxygen pipeline
 pressure is approximately 3.7 – 4.5 bar.
 c. Oxygen supply from wall outlets outside of ICU and theatres may be limited to
