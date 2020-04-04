@@ -1,0 +1,3 @@
+#define VERSION "20200504.3"
+#define BAUD 119200
+
